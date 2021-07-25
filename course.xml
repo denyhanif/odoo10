@@ -39,7 +39,21 @@
                                         <field name="instructor_id"/>
                                         <field name="start_date"/>
                                         <field name="active"/>
+                                        <field name="seats"/>
+                                        <field name="duration"/>
                                     </tree>
+                                    <form>
+                                        <group>
+    
+                                            <field name="name"/>
+                                            <field name="instructor_id"/>
+                                            <field name="start_date"/>
+                                            <field name="seats"/>
+                                            <field name="duration"/>
+
+                                        </group>
+
+                                    </form>
 
                                 </field>
 
