@@ -32,6 +32,16 @@
                             <page string="deskripsi">
                                 <field name="description"/>
                             </page>
+                            <page string="session">
+                                <field name="session_ids">
+<!--                                    <field name="name"/>-->
+<!--                                    <field name="instructor_id"/>-->
+<!--                                    <field name="course_id"/>-->
+<!--                                    <field name="start_date"/>-->
+<!--                                    <field name="active"/>-->
+                                </field>
+
+                            </page>
                         </notebook>
                     </sheet>
 
