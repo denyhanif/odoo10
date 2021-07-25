@@ -43,6 +43,13 @@
                                 <field name="start_date"/>
                                 <field name="active"/>
                             </group>
+                            <notebook>
+                                <page string="attendee">
+                                    <field name="attende_ids">
+                                    </field>
+                                </page>
+
+                            </notebook>
                         </group>
 
 
